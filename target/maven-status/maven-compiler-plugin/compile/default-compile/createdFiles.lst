@@ -1,0 +1,4 @@
+com\airwire\controller\IndexController.class
+com\airwire\configuration\CORSFilter.class
+com\airwire\configuration\AirwireConfiguration.class
+com\airwire\configuration\AirwireInitializer.class
